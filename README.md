@@ -23,3 +23,5 @@ TypeScript, Python, Next.js/React, FastAPI, Django, Postgres (pgvector), Supabas
 ## Contact
 
 ericwlai@gmail.com
+
+<!-- profile readme -->
