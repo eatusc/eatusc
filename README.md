@@ -2,7 +2,7 @@
 
 **Applied AI and full-stack engineer. Founder and operator.**
 
-I build AI products end to end: real-time voice agents, RAG systems with human-in-the-loop workflows, and developer tools. Everything below is code I run in production for my own businesses, which means it has to actually work, stay cheap, and fail gracefully.
+I build AI products end to end: real-time voice agents, RAG systems with human-in-the-loop workflows, and developer tools. Everything below is code I run in production for my business and its clients, which means it has to actually work, stay cheap, and fail gracefully.
 
 ## Featured projects
 
