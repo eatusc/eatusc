@@ -8,7 +8,7 @@ I build AI products end to end: real-time voice agents, RAG systems with human-i
 
 **[zencub-rag](https://github.com/eatusc/zencub-rag)** ([live site](https://search.zencub.com)) - LangGraph RAG over a jiu-jitsu video library: hybrid retrieval with citations back to the exact clips, persistent checkpointed workflows with human approval and recovery, and a committed eval suite. Next.js, Supabase/pgvector, strict TypeScript with zero `any`.
 
-**[hap-voice](https://github.com/eatusc-personal/hap-voice)** (call it: (213) 410-2118) - Self-hosted AI receptionist answering the HelpAProduct business line over Twilio Media Streams. Hand-written G.711 codec, energy VAD, and barge-in handling (caller speech aborts in-flight LLM and TTS mid-sentence), with local whisper.cpp STT. Six production dependencies total.
+**[hap-voice](https://github.com/eatusc-personal/hap-voice)** - Self-hosted AI receptionist answering the HelpAProduct business line over Twilio Media Streams. Hand-written G.711 codec, energy VAD, and barge-in handling (caller speech aborts in-flight LLM and TTS mid-sentence), with local whisper.cpp STT. Six production dependencies total.
 
 **[hap-testing](https://github.com/eatusc-personal/hap-testing-public)** - Agent-to-agent testing control plane: maps which kinds of testing apply to a codebase, has one agent prove each bug with a failing test and another fix it in an isolated worktree, and counts a fix only when a database trigger can verify it.
 
