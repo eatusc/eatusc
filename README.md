@@ -28,6 +28,3 @@ Also on the shelf: a [Manifest V3 Chrome extension](https://github.com/eatusc-pe
 
 TypeScript, Python, Next.js/React, FastAPI, Django, Postgres (pgvector), Supabase, LangGraph, whisper.cpp, Twilio, Google Cloud (Cloud Run, BigQuery), Terraform.
 
-## Contact
-
-ericwlai@gmail.com
